@@ -1,7 +1,7 @@
 Grove_Water_Sensor
 --------------------------------
 
-[![Grove_Water_Sensor](http://www.seeedstudio.com/wiki/images/thumb/5/54/Twig_-_Water_Sensor.jpg/400px-Twig_-_Water_Sensor.jpg)](http://www.seeedstudio.com/depot/twig-water-sensor-p-748.html?cPath=144_151)
+[![Grove_Water_Sensor](https://statics3.seeedstudio.com/images/101020018%201.jpg)](http://www.seeedstudio.com/depot/twig-water-sensor-p-748.html?cPath=144_151)
 
 The Water Sensor module is part of the Grove system. It indicates whether the sensor is dry, damp or completely immersed in water by measuring conductivity. The sensor traces have a weak pull-up resistor of 1 MΩ. The resistor will pull the sensor trace value high until a drop of water shorts the sensor trace to the grounded trace. Believe it or not this circuit will work with the digital I/O pins of your Arduino or you can use it with the analog pins to detect the amount of water induced contact between the grounded and sensor traces.
 
@@ -11,7 +11,7 @@ Just open this ino file with Arduino IDE and play.
 
 Assume that you connected the grove correctly. 
 
-For connection guide and more information, please refer to [wiki page](http://www.seeedstudio.com/wiki/Grove_-_Water_Sensor).
+For connection guide and more information, please refer to [wiki page](http://wiki.seeedstudio.com/Grove-Water_Sensor/).
 
     
 ----
