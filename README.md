@@ -1,4 +1,4 @@
-Grove_Water_Sensor
+Grove_Water_Sensor  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_Water_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_Water_Sensor)
 --------------------------------
 
 [![Grove_Water_Sensor](https://statics3.seeedstudio.com/images/101020018%201.jpg)](http://www.seeedstudio.com/depot/twig-water-sensor-p-748.html?cPath=144_151)
